@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name":MagicWands,
+      "name":MagicWand+,
       "author":ferdithedev,
       "description":Adds spells,
       "url":abc
