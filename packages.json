@@ -1,5 +1,9 @@
 {
   "packages": [
-    
+    {
+      "name":"MagicWands",
+      "author":"ferdithedev",
+      "description":"Adds spells"
+    }
   ]
 }
