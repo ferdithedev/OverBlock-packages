@@ -1,10 +1,10 @@
 {
   "packages": [
     {
-      "name":"MagicWands",
-      "author":"ferdithedev",
-      "description":"Adds spells",
-      "url":"abc"
+      "name":MagicWands,
+      "author":ferdithedev,
+      "description":Adds spells,
+      "url":abc
     }
   ]
 }
